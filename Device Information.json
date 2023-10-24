@@ -1,0 +1,42 @@
+{
+    "Device Info": [
+        {
+            "sync_user_agent": "Chrome ANDROID-PHONE 114.0.5735.196 (6191f52286c508cf6a0a53d6571ca1fab98e1fad-refs/branch-heads/5735@{#1392}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "114.0.5735.196"},
+            "signin_scoped_device_id": "80f3b6d6-56d7-4936-9fd8-5bdb9fb45881",
+            "manufacturer": "motorola",
+            "cache_guid": "wxpwUImJsOHTMNaQTwO9rQ==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": true},
+            "invalidation_fields": {
+                        "instance_id_token": "eaWT_Uc4KNg:APA91bFNhWXRAw0L9D3QH4bawC2ycR3BV37t_azMd30UXtx3FKRBovDDIYUF9wQY38IcChdTSc0qh1gLlyUeMsYuWWxjUnrSztoIH872MZVGB6vMJMvIAppVleLyoBELeuGw0huP8KXn",
+                        "interested_data_type_ids": [
+                                    32904,
+                                    37702,
+                                    45873,
+                                    63951,
+                                    31729,
+                                    306270,
+                                    330441,
+                                    774329,
+                                    40781,
+                                    150251,
+                                    154522,
+                                    163425,
+                                    186662,
+                                    411028,
+                                    601980,
+                                    1034378,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_ANDROID",
+            "last_updated_timestamp": 1690392360543,
+            "model": "moto g power (2022)",
+            "client_name": "moto g power (2022)",
+            "chrome_version": "114.0.5735.196"
+}
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "Apps": [
+        {"extension": {
+            "remote_install": true,
+            "disable_reasons": 2048,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "mmfbcljfglbokpmkimbfghdkjmjhdgbg",
+            "id": "mmfbcljfglbokpmkimbfghdkjmjhdgbg",
+            "version": "0",
+            "enabled": false
+}}
+    ],
+    "App Settings": [],
+    "Preferences": [
+        {
+            "name": "browser.clear_data.media_licenses",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.form_data",
+            "value": "false"
+},
+        {
+            "name": "intl.accept_languages",
+            "value": "\"en-US,en\""
+},
+        {
+            "name": "browser.clear_data.cache_basic",
+            "value": "false"
+},
+        {
+            "name": "translate_site_blocklist_with_time",
+            "value": "{}"
+},
+        {
+            "name": "browser.clear_data.cookies_basic",
+            "value": "false"
+},
+        {
+            "name": "sync.demographics_birth_year_offset",
+            "value": "0"
+},
+        {
+            "name": "browser.clear_data.browsing_history_basic",
+            "value": "false"
+},
+        {
+            "name": "enable_do_not_track",
+            "value": "true"
+},
+        {
+            "name": "profile.cookie_controls_mode",
+            "value": "2"
+},
+        {
+            "name": "search.contextual_search_enabled",
+            "value": "\"true\""
+},
+        {
+            "name": "translate_accepted_count",
+            "value": "{\"es\":0,\"ru\":2}"
+},
+        {
+            "name": "https_only_mode_enabled",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.browsing_history",
+            "value": "false"
+},
+        {
+            "name": "dom_distiller.reader_for_accessibility",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.passwords",
+            "value": "false"
+},
+        {
+            "name": "net.network_prediction_options",
+            "value": "0"
+},
+        {
+            "name": "browser.clear_data.cache",
+            "value": "false"
+},
+        {
+            "name": "translate_site_blacklist",
+            "value": "[]"
+},
+        {
+            "name": "translate_recent_target",
+            "value": "\"en\""
+},
+        {
+            "name": "intl.selected_languages",
+            "value": "\"en-US,en\""
+},
+        {
+            "name": "translate_ignored_count_for_language",
+            "value": "{\"es\":0,\"ru\":0}"
+},
+        {
+            "name": "sharing.vapid_key",
+            "value": "{\"vapid_creation_timestamp\":\"13285481302829692\",\"vapid_private_key\":\"MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgsFICHan6dM72wRisKfmsIWaH2SfsJEmcQKMhjT6qykahRANCAARvvqNZ+EE2wH67T/V8zHUistdqXSgsoXOILmlILS9UUK1G2MeCyp7uU24HmLJx1ebQ2/0kctJZcIY0hv2Ztv7c\"}"
+},
+        {
+            "name": "translate_allowlists",
+            "value": "{\"ru\":\"en\"}"
+},
+        {
+            "name": "translate_denied_count_for_language",
+            "value": "{\"es\":1,\"ru\":0}"
+},
+        {
+            "name": "translate_force_trigger_on_english_count_for_backoff_1",
+            "value": "-1"
+},
+        {
+            "name": "browser.clear_data.cookies",
+            "value": "false"
+},
+        {
+            "name": "translate_site_blacklist_with_time",
+            "value": "{}"
+},
+        {
+            "name": "search.contextual_search_fully_opted_in",
+            "value": "true"
+},
+        {
+            "name": "search.suggest_enabled",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.site_settings",
+            "value": "false"
+},
+        {
+            "name": "safebrowsing.enabled",
+            "value": "false"
+},
+        {
+            "name": "download.prompt_for_download_android",
+            "value": "1"
+}
+    ],
+    "Priority Preferences": [
+        {"preference": {
+            "name": "credentials_enable_sync",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "credentials_enable_service",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "safebrowsing.aesb_update_time_windows_epoch_micros",
+            "value": "\"13292718381415502\""
+}},
+        {"preference": {
+            "name": "credentials_enable_autosignin",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "profile.credentials_last_password_checkup_time",
+            "value": "\"13308123248221241\""
+}},
+        {"preference": {
+            "name": "credentials_need_first_time_welcome",
+            "value": "false"
+}},
+        {"preference": {
+            "name": "sync.demographics",
+            "value": "{\"gender\":1,\"birth_year\":1974}"
+}},
+        {"preference": {
+            "name": "credentials_password_manager_warm_welcome_last_seen",
+            "value": "2022-07-06T01:24:57.049027072Z"
+}},
+        {"preference": {
+            "name": "credentials_enable_passwordalerts",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "credentials_last_password_checkup_time",
+            "value": "2022-12-04T16:59:19.077624Z"
+}}
+    ],
+    "Themes": [],
+    "Web Apps": []
+}
